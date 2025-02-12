@@ -8,4 +8,4 @@
 
 # 困難點
 * 這下變成 discord bot 要全天候運轉
-* 所以我就又去AWS的Lightsail租了一個小VM來放這支機器人。
+* 所以我就又去AWS的Lightsail租了一個小VM來放這支機器人。🤡
